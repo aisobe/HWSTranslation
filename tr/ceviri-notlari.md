@@ -1,16 +1,15 @@
 # Notlar
-• Yorumları  Türkçe'ye çeviriyorum.
-• Değişken adlarını çevirmiyorum, sadece gerektiğinde parantez içinde bir kez anlamını yazıyorum.
++ Yorumları  Türkçe'ye çeviriyorum.
++ Değişken adlarını çevirmiyorum, sadece gerektiğinde parantez içinde bir kez anlamını yazıyorum.
 
-# Sözcükler:
+# Terimler:
 + operator: operatör
 + statement: ifade
 + code block: kod bloğu
 + action: eylem
 + variable: değişken
 + constant: sabit
-
-# Terimler:
++ user interface: kullanıcı arayüzü
 + Playground: oyun alanı
 + String: String (metin)
 + Type inference: Tip çıkarsaması
@@ -22,9 +21,25 @@
 + Int: Int
 + Integer: tam sayı
 + Loop: döngü
-+ Array: dizi, ama eğer veri tipi olarak kullanılıyorsa Array olarak kalıyor.
++ Array: dizi, ama eğer veri tipi olarak kullanılıyorsa Array olarak kalıyor
 + While: While
 + continue: continue
 + break: break
 + print(): print()
-+ Dictionary: sözlük, ama eğer veri tipi olarak kullanılıyorsa Array olarak kalıyor.
++ Dictionary: sözlük, ama eğer veri tipi olarak kullanılıyorsa Array olarak kalıyor
++ nil coalescing operator: nil değeri birleştirme operatörü
++ optional unwrapping: optional'ı açma
++ non-optional: optional olmayan (seçimli olmayan)
++ force unwrapping optionals: optional'ları zorla açma
++ implicitly unwrapped optionals: dolaylı olarak açılan optional'lar
++ optional chaining: optional zincirleme
++ property : özellik
++ property observer: özellik gözleyici
++ computed properties : hesaplanmış özellikler
++ polymorphism: çokbiçimlilik
++ typecasting: tipleme
++ optional downcasting: seçimli indirgeme
++ forced downcasting: zorla indirgeme
++ closure: closure
++ trailing closure: takip eden closure
++ syntactic sugar: sözdizimsel güzellik
